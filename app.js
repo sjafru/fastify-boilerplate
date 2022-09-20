@@ -2,9 +2,7 @@ const fastify = require("fastify");
 global.__basedir = __dirname
 
 const serverConfig = {
-    logger: {
-        prettyPrint: true
-    }
+    logger: true
 }
 
 const server = fastify(serverConfig)
