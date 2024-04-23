@@ -28,7 +28,7 @@
     "fastify": "3",
     "fastify-env": "^2.2.0",
     "fastify-sequelize": "^1.0.4",
-    "mysql2": "^2.3.3",
+    "mysql2": "^3.9.7",
     "pino-pretty": "^9.1.0",
     "sequelize": "^6.23.0",
     "uuid": "^9.0.0"
